@@ -27,6 +27,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Smali](https://img.shields.io/badge/Smali-4A4A4A?style=flat-square&logo=android&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ARM64](https://img.shields.io/badge/ARM64-0091BD?style=flat-square&logo=arm&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
 <!-- html is not a real language -->
 
