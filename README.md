@@ -74,8 +74,12 @@
 <a href="https://lua.v.rich">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="48" alt="lua.v.rich"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://manga.skin">
+  <img src="https://manga.skin/favicon.svg" height="48" alt="manga.skin logo"/>
+</a>
 
-<sub><a href="https://v.rich">Silt</a> - file host + bio link | <a href="https://lua.v.rich">lua.v.rich</a> - lua obfuscator</sub>
+<sub><a href="https://v.rich">Silt</a> - file host + bio link | <a href="https://lua.v.rich">lua.v.rich</a> - lua obfuscator | <a href="https://manga.skin">manga.skin</a> - manga aggregator</sub>
 
 </div>
 
